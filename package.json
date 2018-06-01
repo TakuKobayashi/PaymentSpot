@@ -1,0 +1,19 @@
+{
+  "name": "paymentspot",
+  "version": "0.0.1",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "TakuKobayashi",
+  "dependencies": {
+    "@line/bot-sdk": "*",
+    "aws-sdk": "*",
+    "npm": "^6.1.0",
+    "underscore": "*",
+    "underscore.string": "*",
+    "googleapis": "*",
+    "google-auth-library": "*"
+  },
+  "license": "MIT"
+}
